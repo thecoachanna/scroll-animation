@@ -20,8 +20,8 @@ h1 {
 }
 
 .box {
-  background-color: #EBF2FA;
-  color: gray;
+  background-color: steelblue;
+  color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;

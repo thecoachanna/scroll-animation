@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #427AA1;
+  background-color: ;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -20,8 +20,8 @@ h1 {
 }
 
 .box {
-  background-color: #EBF2FA;
-  color: gray;
+  background-color: steelblue;
+  color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
